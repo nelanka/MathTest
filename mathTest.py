@@ -34,7 +34,7 @@ for round in range(0, rounds):
                b = c
             correct_answer = a - b
         case 2:
-            op = "*"
+            op = "x"
             correct_answer = a * b
         case 3:
             op = "/"
